@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tracking/item.dart';
-import 'package:tracking/database.dart';
+import 'package:tracker/item.dart';
+import 'package:tracker/database.dart';
 
 class SettingsScreen extends StatefulWidget {
   List<Item> items;

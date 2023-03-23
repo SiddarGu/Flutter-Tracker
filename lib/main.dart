@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tracking/item.dart';
-import 'package:tracking/screens.dart';
-import 'package:tracking/database.dart';
+import 'package:tracker/item.dart';
+import 'package:tracker/screens.dart';
+import 'package:tracker/database.dart';
 
 void main() {
   runApp(MaterialApp(

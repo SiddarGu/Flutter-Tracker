@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:tracking/home_screen.dart';
-import 'package:tracking/settings_screen.dart';
-import 'package:tracking/item.dart';
+import 'package:tracker/home_screen.dart';
+import 'package:tracker/settings_screen.dart';
+import 'package:tracker/item.dart';
 
 class Screens {
   static List<Widget Function(List<Item>)> get screens => [
